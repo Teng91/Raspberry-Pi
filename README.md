@@ -1,4 +1,4 @@
-# 在 Raspberry Pi 上使用 OpenCV 和控制 MG996R 伺服馬達
+# 在 Raspberry Pi 上使用 OpenCV 和控制伺服馬達
 ## 安裝 Raspberry Pi OS
 - 在 Raspberry Pi 上安裝 Raspberry Pi OS，並按照指示將其安裝到 SD 卡上
 - Raspberry Pi OS安裝網址：https://www.raspberrypi.com/software/?fbclid=IwAR2pMxAf1jxRfaCY3nYxxQ5BfOIq1pbgAMoP0RnWA_-YDTPCQXECSNXVHiM
