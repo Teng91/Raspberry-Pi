@@ -16,3 +16,4 @@ sudo apt install python3-rpi.gpio
 - MG996R 伺服馬達有三個主要引腳：電源（通常為 5V）、接地（GND）和訊號（控制伺服馬達的 PWM 訊號）
 - 將伺服馬達的訊號針腳接到 Raspberry Pi 的 GPIO 針腳（例如 GPIO 17）
 - 將伺服馬達的電源針腳接到 Raspberry Pi 的 5V 針腳，並將接地針腳接到 Raspberry Pi 的 GND 針腳
+![示範圖片](face detection/device.jpg)
