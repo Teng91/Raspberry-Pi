@@ -17,4 +17,5 @@ sudo apt install python3-rpi.gpio
 - 將伺服馬達的訊號針腳接到 Raspberry Pi 的 GPIO 針腳（例如 GPIO 17）
 - 將伺服馬達的電源針腳接到 Raspberry Pi 的 5V 針腳，並將接地針腳接到 Raspberry Pi 的 GND 針腳
 
-![image](face detection/device.jpg)
+![image](face%20detection/device.jpg)
+
